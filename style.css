@@ -96,6 +96,10 @@ ul{
 
 }
 
+.titre-nom{
+    justify-content: center;
+    padding-top: 50px;
+}
 
 .button1{
     color: white;
